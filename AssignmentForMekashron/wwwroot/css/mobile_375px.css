@@ -1,0 +1,720 @@
+@media screen and (max-width: 375px) {
+    .header {
+        padding: 0 0;
+        width: 375px;
+    }
+      
+    .nav{
+        max-width: 375px;
+        max-height: 100px;
+    }
+
+    .nav_menu {
+        margin-top: 24px;
+        margin-left: 17px;
+        width: 24px;
+        height: 24px;
+        background: url('../img/menu.svg') left top no-repeat;
+    }
+      
+    .nav_site_container {
+        display: none;
+    }
+
+    .logo img{
+        margin-top: 5px;
+        margin-left: 78px;
+        width: 182px;
+        height: 44px;
+    }
+      
+    .nav_account {
+        margin-top: -3px;
+        margin-left: -684px;
+        background: url('../img/avatar.svg') no-repeat;
+    }
+      
+    .nav_setting{
+        position: absolute;
+        margin-left: 16px;
+    }
+      
+    .user_name {
+        margin-top: 45px;
+        margin-left: -305px;
+    }
+      
+    .welcome {
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 17px;
+        color: #000000;
+    }
+      
+    .name {
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 21px;
+        color: #000000;
+        text-decoration: none;
+    }
+      
+    .logout{
+        padding-left: 5px;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 18px;
+        color: #0061A3;
+        text-decoration: none;
+    }
+      
+    .user_balance {
+        margin-top: 27px;
+        margin-left: -95px;
+    }
+      
+    .user_balance p {
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 17px;
+    }
+      
+    .user_balance span {
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 18px;
+        color: #000000;
+    }
+      
+    .nav_social{
+        display:none;
+    }
+
+    /* main */
+    .main {
+        margin-top: 108px;
+        width: 375px;
+    }
+
+    .banner {
+        margin-top: -144px;
+        width: 375px;
+        height: 180px;
+        border-radius: 0px;
+    }
+      
+    .banner img{
+        width: 375px;
+        height: 180px;
+    }
+      
+    .main_cards {
+        margin-top: -446px;
+        margin-left: 2px;
+        max-width: 360px;
+        height: 295px;
+    }
+      
+    #container_card_one {
+        position: absolute;
+    }
+
+    #container_card_two {
+        position: absolute;
+        padding-top: 101px;
+    }
+
+    #container_card_three {
+        position: absolute;
+        padding-top: 204px;
+
+    }
+      
+    .main_card {
+        border: 1px solid #E0E0E0;
+        border-radius: 8px;
+        width: 343px;
+        height: 91px;
+    }
+
+    .card_button {
+        padding-right: 7px;
+        padding-top: 5px;
+        font-size: 13px;
+    }
+
+    .card_content {
+        padding-top: 2px;
+        padding-right: 0;
+        margin-left: -1px;
+    }
+      
+    .main_lottery {
+        margin-top: 530px;
+        width: 375px;
+        height: 520px;
+    }
+      
+    .lottery_title {
+        display: none;
+    }
+
+    .lottery_title_mobile {
+        display: block;
+        padding-left: 18px;
+        margin-top: -2px;
+        font-size: 18px;
+        font-weight: 500;
+        line-height: 24px;
+    }
+
+    .lottery_cards {
+        margin-top: -15px;
+        width: 1170px;
+        height: 149px;
+    }
+
+    #lottery_card_one {
+        position: absolute;
+        padding-left: 19px;
+        padding-top: 2px;
+    }
+
+    #lottery_card_two {
+        position: absolute;
+        margin-top: 167px;
+        margin-left: 5px;
+    }
+
+    #lottery_card_three {
+        position: absolute;
+        margin-top: 332px;
+        margin-left: 5px;
+    }
+      
+    .lottery_card {
+        position: absolute;
+        width: 343px;
+        height: 150px;
+        border: 1px  solid #E0E0E0;
+        border-radius: 8px;
+    }
+      
+    .lottery_card img{
+        margin-top: 5px;
+        margin-left: 24px;
+        width: 127px;
+        height: 80px;
+    }
+      
+    .lottery_block_country {
+        margin-top: 18px;
+        margin-left: 30px;
+    }
+      
+    .country_name {
+        margin-left: 30px;
+        padding-top: 3px;
+    }
+      
+    .lottery_price {
+        margin-top: -6px;
+        margin-left: 32px;
+        font-size: 24px;
+    }
+      
+    .lottery_card_footer {
+        width: 343px;
+    }
+      
+    .lottery_button {
+        margin-top: 13px;
+        margin-left: 16px;
+        width: 144px;
+        height: 34px;
+    }
+
+    .footer_alarm {
+        padding-left: 24px;
+        background: url('../img/alarm.svg') 49px center no-repeat;
+    }
+      
+    .alarm_text {
+        margin-top: -1px;
+        margin-left: 7px;
+    }
+      
+    .block_play {
+        margin-top: 32px;
+        width: 375px;
+        height: 819px;
+    }
+      
+    .block_title{
+        margin-left: 19px;
+        max-width: 343px;
+        background: #F30000;
+        border-radius: 8px;
+        height: 45px;
+    }
+      
+    .play_title {
+        padding-top: 13px;
+        font-size: 16px;
+        line-height: 19px;
+    }
+      
+    .cards_row_play{
+        margin-left: 15px;
+        margin-top: 7px;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        -webkit-box-align: start;
+        -ms-flex-align: start;
+        align-items: flex-start;
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+        height: 735px;
+        width: 345px;
+    }
+
+    .card_play_container {
+        margin: 10px 10px;
+        flex-basis: calc(50% - 20px);
+    }
+
+    #mobile_container_one,
+    #mobile_container_two,
+    #mobile_container_three,
+    #mobile_container_four {
+        display: none;
+    }
+      
+    .play_card {
+        width: 155px;
+        height: 230px;
+        border: 1px solid #E0E0E0;
+        border-radius: 8px;
+    }
+      
+    .play_card img {
+        margin-top: 16px;
+        margin-left: 37px;
+        width: 81px;
+        height: 78px;
+    }
+
+    .play_card_star {
+        margin-left: 14px;
+        margin-top: 3px;
+        border: none;
+        background: url('../img/Star.svg') no-repeat center;
+        background-size: 11px;
+        width: 16px;
+        height: 16px;
+    }
+      
+    .play_card_title {
+        margin-top: 106px;
+        margin-left: 18px;
+    }
+      
+    .play_block_country {
+        background: url('../img/countryUSA.svg') no-repeat left center;
+    }
+      
+    .play_country_name {
+        margin-left: 3px;
+        font-size: 12px;
+        line-height: 14px;
+    }
+      
+    .play_price {
+        margin-left: 5px;
+        font-size: 18px;
+    }
+      
+    .play_alarm {
+        margin-left: 26px;
+        margin-top: -10px;
+        max-height: 18px;
+        max-width: 64px;
+        background: url('../img/alarmBlue.svg') no-repeat left center;
+        background-size: 14px;
+    }
+      
+    .play_alarm_text {
+        margin-left: 18px;
+        padding-top: 1px;
+        font-size: 14px;
+    }
+      
+    .play_button {
+        margin-top: 184px;
+        margin-left: 10px;
+        width: 136px;
+        height: 36px;
+    }
+      
+    .more_details_play {
+        margin-top: 9px;
+        margin-right: 31px;
+        text-align: end;
+    }
+
+    .more_details_link {
+        display: none;
+    }
+
+    .all_lotteries {
+        display: block;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 24px;
+        color: #0061A3;
+    }
+      
+    .lottery_winners {
+        padding-left: 15px;
+        margin-top: 32px;
+        max-width: 375px;
+        height: 1160px;
+    }
+      
+    .biggest_block {
+        margin-left: 0;
+        width: 343px;
+        height: 50px;
+    }
+      
+    .biggest_title {
+        margin-top: 2px;
+        font-size: 16px;
+    }
+      
+    .biggest_card {
+        margin-top: 30px;
+        width: 343px;
+        height: 504px;
+    }
+      
+    .biggest_card_title {
+        margin-left: 22px;
+        margin-top: 16px;
+        height: 40px;
+        width: 299px;
+        background: url('../img/starLoto.webp') no-repeat left center;
+        background-size: 40px 40px;
+        text-align: right;
+    }
+      
+    .title_won {
+        padding-top: 2px;
+        padding-left: 18px;
+        font-size: 27px;
+    }
+      
+    .title_count {
+        font-size: 27px;
+    }
+      
+    .biggest_card_block {
+        display: flex;
+    }
+
+    .biggest_card_img {
+        margin-top: 12px;
+        margin-left: 0;
+    }
+
+    #winners_img {
+        display: none;
+    }
+
+    #winners_media_img {
+        display: initial;
+        width: 341px;
+        height: 171px;
+    }
+      
+    .biggest_card_story {
+        margin-left: -320px;
+        margin-top: 255px;
+        width: 309px;
+        height: 124px;
+    }
+      
+    .story_title {
+        text-align: center;
+    }
+
+    .story_desc {
+        margin-top: -10px;
+        margin-left: -1px;
+    }
+      
+    .biggest_card_link {
+        margin-top: -3px;
+        margin-left: 5px;
+    }
+
+    .biggest_card_link a {
+        text-decoration: none;
+    }
+      
+    .result_button {
+        margin-top: 17px;
+        margin-left: 37px;
+        height: 33px;
+    }
+      
+    .block_result {
+        margin-left: 44px;
+        margin-top: -179px;
+    }
+      
+    .result_numbers {
+        margin-left: 15px;
+        margin-top: -5px;
+        height: 20px;
+    }
+
+    .result_numbers img {
+        margin-left: 0;
+        width: 20px;
+        height: 20px;
+    }
+      
+    .result_date {
+        margin-left: -2px;
+    }
+      
+    .our_block {
+        margin-left: 0;
+        margin-top: 553px;
+        overflow-y: hidden;
+        max-height: 568px;
+        width: 345px;
+    }
+      
+    .our_title {
+        padding-top: 12px;
+        height: 47px;
+        font-size: 16px;
+    }
+      
+    .our_total_prizes {
+        margin-top: 16px;
+        width: 345px;
+        height: 98px;
+        border: 1px solid #E0E0E0;
+        border-radius: 8px;
+    }
+
+    .total_title {
+        margin-top: 5px;
+        margin-left: 5px;
+    }
+
+    .total_count_tickets {
+        margin-top: -2px;
+        margin-left: 6px;
+    }
+
+    .total_count_tickets span {
+        margin-left: 5px;
+    }
+      
+    .our_people {
+        overflow-y: hidden;
+        max-height: 381px;
+    }
+      
+    .card_winner {
+        margin-top: 8px;
+        width: 345px;
+        height: 78px;
+    }
+
+    .info_winner {
+        margin-top: -1px;
+        padding-left: 3px;
+    }
+      
+    .asked_block {
+        display: none;
+    }
+      /* main end */
+      
+      /* footer */
+    .footer_container {
+        margin-top: 404px;
+        width: 375px;
+        height: 652px;
+        background: url('../img/starsMedia.webp') 5px 313px no-repeat;
+        background-size: 370px 146px;
+    }
+      
+    .footer_info {
+        margin-top: -350px;
+        height: 570px;
+        width:375px;
+    }
+      
+    .footer_label {
+        margin-top: 96px;
+        margin-left: 15px;
+    }
+      
+    .footer_whatsapp {
+        width: 189px;
+        height: 31px;
+        background: url('../img/whatsapp36x36.svg') left center no-repeat;
+        background-size: 30px;
+    }
+      
+    .footer_whatsapp p {
+        margin-left: 46px;
+        margin-top: -3px;
+        font-size: 14px;
+        line-height: 17px;
+    }
+      
+    .footer_whatsapp span {
+        font-size: 12px;
+        line-height: 14px;
+    }
+      
+    .footer_social {
+        margin-left: 185px;
+        padding-top: 510px;
+    }
+      
+    .footer_social img {
+        margin-left: 5px;
+        width: 24px;
+        height: 24px;
+    }
+      
+    .footer_block {
+        margin-left: 16px;
+        margin-top: -504px;
+        width: 343px;
+        height: 491px;
+    }
+      
+    .footer_block_one {
+        margin-top: -2px;
+        width: 345px;
+        height: 184px;
+    }
+      
+    .footer_block_one h1 {
+        padding-top: 14px;
+        margin-left: 2px;
+        width: 315px;
+        height: 21px;
+    }
+
+    #column_one {
+        padding-top: 10px;
+        width: 162px;
+        height: 125px;
+    }
+
+    #column_one_home {
+        display: block;
+    }
+
+    #column_two {
+        margin-top: -115px;
+        margin-left: 176px;
+        width: 140px;
+        height: 151px;
+    }
+      
+    .footer_block_one a {
+        margin-top: 5px;
+        font-size: 14px;
+    }
+      
+    .footer_block_one p {
+        font-size: 14px;
+    }
+      
+    .footer_block_two {
+        margin-left: 0;
+        margin-top: 215px;
+        width: 343px;
+        height: 119px;
+    }
+      
+    .footer_block_two h1 {
+        margin-left: 5px;
+        font-size: 14px;
+    }
+      
+    .footer_block_two p {
+        margin-top: -8px;
+        width: 318px;
+        font-size: 10px;
+        line-height: 12px;
+    }
+      
+    .footer_block_two div {
+        margin-top: -15px;
+        font-size: 10px;
+        width: 343px;
+        height: 38px;
+    }
+
+    .footer_block_two span {
+        display: flex;
+        width: 275px;
+    }
+      
+    .footer_block_three {
+        margin-left: 0;
+        margin-top: 350px;
+        width: 160px;
+        height: 130px;
+    }
+      
+    .footer_block_three h1 {
+        font-size: 14px;
+    }
+      
+    .footer_block_three div {
+        margin-bottom: 10px;
+        padding-top: 2px;
+    }
+      
+    .footer_block_three img {
+        margin-right: 6px;
+        width: 44px;
+        height: 26px;
+    }
+      
+    .security {
+        margin-top: -148px;
+        margin-left: 190px;
+        width: 150px;
+        height: 147px;
+    }
+
+    .security h1 {
+        font-size: 14px;
+    }
+
+    #ctv_icon {
+        margin-left: 0;
+        width: 64px;
+        height: 72px;
+    }
+
+    #comodo_icon {
+        width: 66px;
+        height: 55px;
+    }
+    /* footer end */
+}

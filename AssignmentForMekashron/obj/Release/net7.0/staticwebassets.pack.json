@@ -1,0 +1,205 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\basta\\source\\repos\\AssignmentForMekashron\\AssignmentForMekashron\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\basta\\source\\repos\\AssignmentForMekashron\\AssignmentForMekashron\\wwwroot\\css\\mobile_375px.css",
+      "PackagePath": "staticwebassets\\css\\mobile_375px.css"
+    },
+    {
+      "Id": "C:\\Users\\basta\\source\\repos\\AssignmentForMekashron\\AssignmentForMekashron\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\basta\\source\\repos\\AssignmentForMekashron\\AssignmentForMekashron\\wwwroot\\img\\Bitcoin-dark.webp",
+      "PackagePath": "staticwebassets\\img\\Bitcoin-dark.webp"
+    },
+    {
+      "Id": "C:\\Users\\basta\\source\\repos\\AssignmentForMekashron\\AssignmentForMekashron\\wwwroot\\img\\CountryGermany.svg",
+      "PackagePath": "staticwebassets\\img\\CountryGermany.svg"
+    },
+    {
+      "Id": "C:\\Users\\basta\\source\\repos\\AssignmentForMekashron\\AssignmentForMekashron\\wwwroot\\img\\CountryUSA.webp",
+      "PackagePath": "staticwebassets\\img\\CountryUSA.webp"
+    },
+    {
+      "Id": "C:\\Users\\basta\\source\\repos\\AssignmentForMekashron\\AssignmentForMekashron\\wwwroot\\img\\DinersClub.webp",
+      "PackagePath": "staticwebassets\\img\\DinersClub.webp"
+    },
+    {
+      "Id": "C:\\Users\\basta\\source\\repos\\AssignmentForMekashron\\AssignmentForMekashron\\wwwroot\\img\\Maestro.webp",
+      "PackagePath": "staticwebassets\\img\\Maestro.webp"
+    },
+    {
+      "Id": "C:\\Users\\basta\\source\\repos\\AssignmentForMekashron\\AssignmentForMekashron\\wwwroot\\img\\MasterCard.webp",
+      "PackagePath": "staticwebassets\\img\\MasterCard.webp"
+    },
+    {
+      "Id": "C:\\Users\\basta\\source\\repos\\AssignmentForMekashron\\AssignmentForMekashron\\wwwroot\\img\\OzLotto.webp",
+      "PackagePath": "staticwebassets\\img\\OzLotto.webp"
+    },
+    {
+      "Id": "C:\\Users\\basta\\source\\repos\\AssignmentForMekashron\\AssignmentForMekashron\\wwwroot\\img\\Skrill.webp",
+      "PackagePath": "staticwebassets\\img\\Skrill.webp"
+    },
+    {
+      "Id": "C:\\Users\\basta\\source\\repos\\AssignmentForMekashron\\AssignmentForMekashron\\wwwroot\\img\\Star.svg",
+      "PackagePath": "staticwebassets\\img\\Star.svg"
+    },
+    {
+      "Id": "C:\\Users\\basta\\source\\repos\\AssignmentForMekashron\\AssignmentForMekashron\\wwwroot\\img\\Visa.webp",
+      "PackagePath": "staticwebassets\\img\\Visa.webp"
+    },
+    {
+      "Id": "C:\\Users\\basta\\source\\repos\\AssignmentForMekashron\\AssignmentForMekashron\\wwwroot\\img\\alarm.svg",
+      "PackagePath": "staticwebassets\\img\\alarm.svg"
+    },
+    {
+      "Id": "C:\\Users\\basta\\source\\repos\\AssignmentForMekashron\\AssignmentForMekashron\\wwwroot\\img\\alarmBlue.svg",
+      "PackagePath": "staticwebassets\\img\\alarmBlue.svg"
+    },
+    {
+      "Id": "C:\\Users\\basta\\source\\repos\\AssignmentForMekashron\\AssignmentForMekashron\\wwwroot\\img\\avatar.svg",
+      "PackagePath": "staticwebassets\\img\\avatar.svg"
+    },
+    {
+      "Id": "C:\\Users\\basta\\source\\repos\\AssignmentForMekashron\\AssignmentForMekashron\\wwwroot\\img\\banner.webp",
+      "PackagePath": "staticwebassets\\img\\banner.webp"
+    },
+    {
+      "Id": "C:\\Users\\basta\\source\\repos\\AssignmentForMekashron\\AssignmentForMekashron\\wwwroot\\img\\comodo.webp",
+      "PackagePath": "staticwebassets\\img\\comodo.webp"
+    },
+    {
+      "Id": "C:\\Users\\basta\\source\\repos\\AssignmentForMekashron\\AssignmentForMekashron\\wwwroot\\img\\countryUSA.svg",
+      "PackagePath": "staticwebassets\\img\\countryUSA.svg"
+    },
+    {
+      "Id": "C:\\Users\\basta\\source\\repos\\AssignmentForMekashron\\AssignmentForMekashron\\wwwroot\\img\\ctv.webp",
+      "PackagePath": "staticwebassets\\img\\ctv.webp"
+    },
+    {
+      "Id": "C:\\Users\\basta\\source\\repos\\AssignmentForMekashron\\AssignmentForMekashron\\wwwroot\\img\\downArrow.svg",
+      "PackagePath": "staticwebassets\\img\\downArrow.svg"
+    },
+    {
+      "Id": "C:\\Users\\basta\\source\\repos\\AssignmentForMekashron\\AssignmentForMekashron\\wwwroot\\img\\downArrowGrey.svg",
+      "PackagePath": "staticwebassets\\img\\downArrowGrey.svg"
+    },
+    {
+      "Id": "C:\\Users\\basta\\source\\repos\\AssignmentForMekashron\\AssignmentForMekashron\\wwwroot\\img\\facebook-messenger.svg",
+      "PackagePath": "staticwebassets\\img\\facebook-messenger.svg"
+    },
+    {
+      "Id": "C:\\Users\\basta\\source\\repos\\AssignmentForMekashron\\AssignmentForMekashron\\wwwroot\\img\\facebook.svg",
+      "PackagePath": "staticwebassets\\img\\facebook.svg"
+    },
+    {
+      "Id": "C:\\Users\\basta\\source\\repos\\AssignmentForMekashron\\AssignmentForMekashron\\wwwroot\\img\\hsbc.webp",
+      "PackagePath": "staticwebassets\\img\\hsbc.webp"
+    },
+    {
+      "Id": "C:\\Users\\basta\\source\\repos\\AssignmentForMekashron\\AssignmentForMekashron\\wwwroot\\img\\litecoin.webp",
+      "PackagePath": "staticwebassets\\img\\litecoin.webp"
+    },
+    {
+      "Id": "C:\\Users\\basta\\source\\repos\\AssignmentForMekashron\\AssignmentForMekashron\\wwwroot\\img\\logo.webp",
+      "PackagePath": "staticwebassets\\img\\logo.webp"
+    },
+    {
+      "Id": "C:\\Users\\basta\\source\\repos\\AssignmentForMekashron\\AssignmentForMekashron\\wwwroot\\img\\megaMillions.webp",
+      "PackagePath": "staticwebassets\\img\\megaMillions.webp"
+    },
+    {
+      "Id": "C:\\Users\\basta\\source\\repos\\AssignmentForMekashron\\AssignmentForMekashron\\wwwroot\\img\\mega_millions_logo.webp",
+      "PackagePath": "staticwebassets\\img\\mega_millions_logo.webp"
+    },
+    {
+      "Id": "C:\\Users\\basta\\source\\repos\\AssignmentForMekashron\\AssignmentForMekashron\\wwwroot\\img\\menu.svg",
+      "PackagePath": "staticwebassets\\img\\menu.svg"
+    },
+    {
+      "Id": "C:\\Users\\basta\\source\\repos\\AssignmentForMekashron\\AssignmentForMekashron\\wwwroot\\img\\number.svg",
+      "PackagePath": "staticwebassets\\img\\number.svg"
+    },
+    {
+      "Id": "C:\\Users\\basta\\source\\repos\\AssignmentForMekashron\\AssignmentForMekashron\\wwwroot\\img\\number.webp",
+      "PackagePath": "staticwebassets\\img\\number.webp"
+    },
+    {
+      "Id": "C:\\Users\\basta\\source\\repos\\AssignmentForMekashron\\AssignmentForMekashron\\wwwroot\\img\\qiwi.webp",
+      "PackagePath": "staticwebassets\\img\\qiwi.webp"
+    },
+    {
+      "Id": "C:\\Users\\basta\\source\\repos\\AssignmentForMekashron\\AssignmentForMekashron\\wwwroot\\img\\starLoto.webp",
+      "PackagePath": "staticwebassets\\img\\starLoto.webp"
+    },
+    {
+      "Id": "C:\\Users\\basta\\source\\repos\\AssignmentForMekashron\\AssignmentForMekashron\\wwwroot\\img\\stars.webp",
+      "PackagePath": "staticwebassets\\img\\stars.webp"
+    },
+    {
+      "Id": "C:\\Users\\basta\\source\\repos\\AssignmentForMekashron\\AssignmentForMekashron\\wwwroot\\img\\starsMedia.webp",
+      "PackagePath": "staticwebassets\\img\\starsMedia.webp"
+    },
+    {
+      "Id": "C:\\Users\\basta\\source\\repos\\AssignmentForMekashron\\AssignmentForMekashron\\wwwroot\\img\\twitter.svg",
+      "PackagePath": "staticwebassets\\img\\twitter.svg"
+    },
+    {
+      "Id": "C:\\Users\\basta\\source\\repos\\AssignmentForMekashron\\AssignmentForMekashron\\wwwroot\\img\\usPowerBall.webp",
+      "PackagePath": "staticwebassets\\img\\usPowerBall.webp"
+    },
+    {
+      "Id": "C:\\Users\\basta\\source\\repos\\AssignmentForMekashron\\AssignmentForMekashron\\wwwroot\\img\\weBuy.webp",
+      "PackagePath": "staticwebassets\\img\\weBuy.webp"
+    },
+    {
+      "Id": "C:\\Users\\basta\\source\\repos\\AssignmentForMekashron\\AssignmentForMekashron\\wwwroot\\img\\whatsapp.svg",
+      "PackagePath": "staticwebassets\\img\\whatsapp.svg"
+    },
+    {
+      "Id": "C:\\Users\\basta\\source\\repos\\AssignmentForMekashron\\AssignmentForMekashron\\wwwroot\\img\\whatsapp36x36.svg",
+      "PackagePath": "staticwebassets\\img\\whatsapp36x36.svg"
+    },
+    {
+      "Id": "C:\\Users\\basta\\source\\repos\\AssignmentForMekashron\\AssignmentForMekashron\\wwwroot\\img\\winner.webp",
+      "PackagePath": "staticwebassets\\img\\winner.webp"
+    },
+    {
+      "Id": "C:\\Users\\basta\\source\\repos\\AssignmentForMekashron\\AssignmentForMekashron\\wwwroot\\img\\winners.webp",
+      "PackagePath": "staticwebassets\\img\\winners.webp"
+    },
+    {
+      "Id": "C:\\Users\\basta\\source\\repos\\AssignmentForMekashron\\AssignmentForMekashron\\wwwroot\\img\\winnersMedia.webp",
+      "PackagePath": "staticwebassets\\img\\winnersMedia.webp"
+    },
+    {
+      "Id": "C:\\Users\\basta\\source\\repos\\AssignmentForMekashron\\AssignmentForMekashron\\wwwroot\\img\\youPick.webp",
+      "PackagePath": "staticwebassets\\img\\youPick.webp"
+    },
+    {
+      "Id": "C:\\Users\\basta\\source\\repos\\AssignmentForMekashron\\AssignmentForMekashron\\wwwroot\\img\\youWin.webp",
+      "PackagePath": "staticwebassets\\img\\youWin.webp"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.AssignmentForMekashron.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.build.AssignmentForMekashron.props",
+      "PackagePath": "build\\AssignmentForMekashron.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.AssignmentForMekashron.props",
+      "PackagePath": "buildMultiTargeting\\AssignmentForMekashron.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildTransitive.AssignmentForMekashron.props",
+      "PackagePath": "buildTransitive\\AssignmentForMekashron.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

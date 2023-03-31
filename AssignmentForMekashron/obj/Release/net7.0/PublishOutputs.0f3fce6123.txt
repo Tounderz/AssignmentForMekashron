@@ -1,0 +1,7 @@
+C:\Users\basta\source\repos\AssignmentForMekashron\AssignmentForMekashron\bin\Release\net7.0\publish\AssignmentForMekashron.exe
+C:\Users\basta\source\repos\AssignmentForMekashron\AssignmentForMekashron\bin\Release\net7.0\publish\appsettings.Development.json
+C:\Users\basta\source\repos\AssignmentForMekashron\AssignmentForMekashron\bin\Release\net7.0\publish\appsettings.json
+C:\Users\basta\source\repos\AssignmentForMekashron\AssignmentForMekashron\bin\Release\net7.0\publish\AssignmentForMekashron.dll
+C:\Users\basta\source\repos\AssignmentForMekashron\AssignmentForMekashron\bin\Release\net7.0\publish\AssignmentForMekashron.deps.json
+C:\Users\basta\source\repos\AssignmentForMekashron\AssignmentForMekashron\bin\Release\net7.0\publish\AssignmentForMekashron.runtimeconfig.json
+C:\Users\basta\source\repos\AssignmentForMekashron\AssignmentForMekashron\bin\Release\net7.0\publish\AssignmentForMekashron.pdb
